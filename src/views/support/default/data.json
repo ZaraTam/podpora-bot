@@ -11,6 +11,7 @@
   "blocks": [
     {
       "type": "input",
+      "block_id": "sl_title_block",
       "element": {
         "type": "plain_text_input",
         "action_id": "sl_title",
@@ -30,6 +31,7 @@
     },
     {
       "type": "input",
+      "block_id": "ml_description_block",
       "element": {
         "type": "plain_text_input",
         "action_id": "ml_description",
