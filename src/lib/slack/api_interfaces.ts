@@ -15,7 +15,8 @@ interface PostCommandPayload {
 }
 
 const enum InteractionTypes {
-    dialog_submission = 'dialog_submission'
+    dialog_submission = 'dialog_submission',
+    view_submission = 'view_submission'
 }
 
 interface PostInteractionPayload {
